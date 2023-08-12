@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "*.php",
-      "use": "now-php"
+      "use": "vercel-php"
     }
   ]
 }
